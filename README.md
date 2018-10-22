@@ -1,32 +1,19 @@
-Hotel Reservation System , This is the Backend side. cs544(Enterprise Architecture) class final project
-<<<<<<< System should allow the Guest to check the available rooms and make room reservation. System should allow the Reception to login, check the available rooms, view reserved rooms, Confirm/Reject Reservation and logout. System should allow the Manager to login, check the available rooms, view reserved rooms, Confirm/Reject Reservation, CRUD Rooms and users, view report and logout. System should accept the reservation, ask for the check-in/check-out dates, store the booking, Guest, room and user Data in the database.
-
-Prerequisites
---------------
-JDK 1.8 or later
-Maven 3 or later
-MySQL 5.6 or later
-Stack
-Spring MVC
-Spring Security
-Spring Data JPA
-Maven
-JSP
-MySQL
+Online Dictionary Project
+The purpose of this project is to review and integrate all of the tools and techniques you have learned in
+this course. In this project, you will create a website that uses all of the following technologies: HTML,
+CSS, JavaScript, Module Pattern, jQuery, AJAX, SQL, and JSON.
+Your goal is to create a simple website that functions as an Online English Dictionary. The Dictionary is
+stored on the web server as a SQL table with three fields: word, word type, and definition. Your website
+is created using the following files:
 
 #To run this project 
 --------------------
 1.create the database 
 Host: localhost 
-Database: cs544 
+Database: entries
 -----------------------
-2.import the sql script(db.sql) 
+2.import the sql script(englishdictionary.sql) 
 3.import the project on sts/eclipse/netbeans/any
 4.Run the project
 
-Login Info for Back-end page
----------------------------------
-username: manager 
-password: password 
-username: reciption 
-password: password
+
