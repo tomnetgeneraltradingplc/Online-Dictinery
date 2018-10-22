@@ -1,0 +1,2 @@
+Wed Jun 27 09:48:45 CDT 2018 : Could not listen on port 1527 on host localhost:
+ java.net.BindException: Address already in use: JVM_Bind
